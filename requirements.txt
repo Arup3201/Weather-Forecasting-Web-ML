@@ -1,0 +1,11 @@
+requests
+numpy
+pandas
+matplotlib
+plotly
+seaborn
+django
+scikit-learn
+tensorflow
+statsmodels
+tqdm
