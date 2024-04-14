@@ -4,7 +4,7 @@ This project entails developing a Django-based web application for weather forec
 
 Dataset Description: [Dataset Link](https://corgis-edu.github.io/corgis/csv/weather/)
 
-I took some references from these papers-
+I took some reference from these papers-
 - [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/pdf/1506.04214v2.pdf)
 - [Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting](https://arxiv.org/pdf/1812.09467v3.pdf)
 - [Deep multi-stations weather forecasting: explainable recurrent convolutional neural networks](https://arxiv.org/pdf/2009.11239v6.pdf)
