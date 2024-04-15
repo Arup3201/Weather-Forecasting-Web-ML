@@ -11,5 +11,7 @@ I took some reference from these papers-
 - [Smart Weather Forecasting Using Machine Learning: A Case Study in Tennessee](https://arxiv.org/pdf/2008.10789.pdf)
 
 I am planning to use the OpenWeatherMap API to get the current weather conditions and show it on the front-end. Also, I am getting the previous N-Days weather condition data to put in the model and get the 5-days forecasting.
-API call to get current weather conditions: [Link to API call](https://openweathermap.org/api/one-call-3#current)
-API call to get previous wather conditions: [Link to API call](https://openweathermap.org/api/one-call-3#history)
+
+API call to get current weather conditions: [Link to API call](https://openweathermap.org/api/one-call-3#current).
+
+API call to get previous wather conditions: [Link to API call](https://openweathermap.org/api/one-call-3#history).
